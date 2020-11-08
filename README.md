@@ -1,7 +1,7 @@
 # Pertemuan-7
 
 
-pertemuan ke 7
+### pertemuan ke 7
 perulangan dalam bahasa pemrograman berfungsi melakukan sesuatu berulang-ulang.
 terdapat dua jenis perulangan di pyhton,yaitu 'for' dan 'wile'
 
@@ -13,17 +13,17 @@ terdapat dua jenis perulangan di pyhton,yaitu 'for' dan 'wile'
 
 bentuk umum 'for'
 
-![1.png](/gambar1/1.png)
+![01.png](/gambar1/01.png)
 
-program latrihan1
+#### program latrihan1
 
-![2.png](/gambar1/2.png)
+![02.png](/gambar1/02.png)
 
 pertama kita temukan banyak nya perulangan sebanyak 10x
 
-![3.png](/gambar2/3.png)
+![01.png](/gambar2/01.png)
 
 variabel 'i' berfungsi untuk menampung indeks
 dan fungsi 'range()' berfungsi untuk membuat list dengan range dari 1-10
 
-![4.png](/gambar2/4.png)
+![02.png](/gambar2/02.png)
